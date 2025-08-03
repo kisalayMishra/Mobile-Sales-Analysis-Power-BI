@@ -1,11 +1,11 @@
-#📱 Mobile Sales Analysis Dashboard – Power BI
+📱 Mobile Sales Analysis Dashboard – Power BI
 📌 Project Title
 Interactive Mobile Sales Analytics Dashboard | Power BI | Data Visualization
 
-#📝 Short Description / Purpose
+📝 Short Description / Purpose
 A dynamic, interactive Power BI dashboard delivering data-driven insights on mobile phone sales performance across brands, regions, and time periods. This project demonstrates expertise in Business Intelligence (BI), data visualization, and analytics to support strategic decision-making.
 
-#🛠 Tech Stack
+🛠 Tech Stack
 Power BI
 Built an interactive dashboard with drill-through capabilities, slicers, and responsive visuals for seamless user experience.
 
@@ -18,7 +18,7 @@ Used for ETL (Extract, Transform, Load) processes, including data cleaning, shap
 Excel / CSV Dataset
 Sourced structured sales data for analysis, integrated into Power BI using a Star Schema for optimized performance.
 
-#📂 Data Source
+📂 Data Source
 Dataset includes mobile sales transactions with key attributes:
 
 Order Date
@@ -33,7 +33,7 @@ Revenue
 
 Data was imported from Excel/CSV files, cleaned in Power Query, and modeled for advanced analytics.
 
-#✨ Features / Highlights
+✨ Features / Highlights
 ✅ Business Problem
 Lack of Real-Time Sales Visibility
 No centralized tool to monitor sales KPIs dynamically across regions and products.
