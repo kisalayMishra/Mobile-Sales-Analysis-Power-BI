@@ -86,7 +86,7 @@ Data was imported from **Excel/CSV files**, cleaned in **Power Query**, and mode
 ## 🖼 Screenshot  
 *(Add your dashboard screenshot here after exporting from Power BI)*  
 Example:  
-![Dashboard Screenshot](./images/mobile_sales_dashboard.png)  
+![Dashboard Screenshot]([./images/mobile_sales_dashboard.png](https://github.com/kisalayMishra/Mobile-Sales-Analysis-Power-BI/blob/main/Images/Front.png))  
 
 ---
 
